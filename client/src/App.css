@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: rgb(204, 173, 235);
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.App-input-block {
+  background-color: blue;
+  height: 40%;
+  width: 40%;
+  position: absolute;
+  left: 30%;
+  top: 30%;
+  border-radius: 2vh;
+}
+
+select{
+  font-size: calc(2vh);
+  width: 80%;
+  position: relative;
+  border-radius: 1%;
+}
